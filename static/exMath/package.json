@@ -1,0 +1,12 @@
+{
+  "family": "gallery",
+  "name": "exMath",
+  "version": "1.0.0",
+
+  "spm": {
+    "alias": {
+      "jquery": "jquery"
+    },
+    "output": ["main.js", "style.css"]
+  }
+}
